@@ -1,4 +1,4 @@
 猿でもわかるGitコマンド
-改行
+http://www.backlog.jp/git-guide/
 どうなるやら？
 add 変更をインデックスに登録する
